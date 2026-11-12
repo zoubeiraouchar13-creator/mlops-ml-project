@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+# Jupyter
+.ipynb_checkpoints/
+# Données & artefacts (reproductibles : jamais dans Git)
+data/
+artifacts/
+logs/
+# OS
+.DS_Store
+Thumbs.db
